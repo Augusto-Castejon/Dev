@@ -21,3 +21,4 @@ while x.lower() != 'fim':
     x = input("Digite seu nome ou fim para finalizar: ") 
     if x.lower() != 'fim':
         print(x);
+        
